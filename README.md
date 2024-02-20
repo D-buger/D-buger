@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <center>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3oduck)](https://solved.ac/o3oduck)
-</center><center>
+
 [![gurumne's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-buger&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-buger&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</center><center>
+
+
 [![gurumne's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gurumne)](https://github.com/anuraghazra/github-readme-stats)
+
 </center>
 
 
