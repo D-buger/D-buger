@@ -1,6 +1,6 @@
 <!--[![wakatime](https://wakatime.com/badge/user/018dc041-0d47-46b6-ac09-9a6ee20c82d8.svg)](https://wakatime.com/@018dc041-0d47-46b6-ac09-9a6ee20c82d8)-->
 
-<center> #🌱 : gurumne : 😄 </center>
+<center> # 🌱-:-gurumne-:-😄 </center>
 
 
 * * *
