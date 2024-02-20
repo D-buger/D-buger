@@ -1,6 +1,6 @@
 <!--[![wakatime](https://wakatime.com/badge/user/018dc041-0d47-46b6-ac09-9a6ee20c82d8.svg)](https://wakatime.com/@018dc041-0d47-46b6-ac09-9a6ee20c82d8)-->
 
-# : gurumne :
+# 🌱 : gurumne : 😄
 * * *
 
 <!--
@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
+[![gurumne's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gurumne)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-buger&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3oduck)](https://solved.ac/o3oduck)
 
 [![gurumne's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-buger&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![gurumne's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gurumne)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-buger&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
