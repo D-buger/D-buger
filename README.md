@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 </div>
 
 : Contact To Me : 
+
 <a href="https://blog.naver.com/o3oduck" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> <img src="https://img.shields.io/badge/o3oduck@naver.com-3CBDB1?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 : Can Do : 
